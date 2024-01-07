@@ -1,2 +1,2 @@
-# pog
-A game I made in python
+# Hopscotch
+A hopscotch game I made in python
