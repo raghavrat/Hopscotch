@@ -1,2 +1,5 @@
 # Hopscotch
-A hopscotch game I made in python
+Hopscotch game 
+Points earned for each target clicked
+Powerups on the side bought with points
+Created with pygame
