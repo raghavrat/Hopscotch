@@ -149,11 +149,3 @@ python main.py
 3. Custom fonts designed for game aesthetics
 4. Multiple variations of assets for different states
 
-### Future Plans
-- Additional power-ups
-- More visual effects
-- High score system
-- Achievement system
-- Sound effects
-- Background music
-
