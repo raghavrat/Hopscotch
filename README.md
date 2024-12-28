@@ -157,6 +157,3 @@ python main.py
 - Sound effects
 - Background music
 
-## Contributing
-
-Feel free to fork the repository and submit pull requests for improvements or bug fixes.
